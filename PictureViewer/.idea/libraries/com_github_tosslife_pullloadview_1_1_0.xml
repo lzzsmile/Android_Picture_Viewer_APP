@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.tosslife:pullloadview-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pullloadview-1.1.0.aar/6407078ac3ac94e53392c162ba86975f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pullloadview-1.1.0.aar/6407078ac3ac94e53392c162ba86975f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tosslife/pullloadview/1.1.0/bc8f5d3f4dc6b8698b39f597e3a5cdc4521a6f80/pullloadview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

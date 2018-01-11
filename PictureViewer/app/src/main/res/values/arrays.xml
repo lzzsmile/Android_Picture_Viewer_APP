@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_category_labels">
+        <item>@string/animal_category_label</item>
+        <item>@string/commercial_category_label</item>
+        <item>@string/family_category_label</item>
+        <item>@string/fashion_category_label</item>
+        <item>@string/film_category_label</item>
+        <item>@string/food_category_label</item>
+        <item>@string/landscape_category_label</item>
+        <item>@string/nature_category_label</item>
+        <item>@string/sport_category_label</item>
+        <item>@string/underwater_category_label</item>
+        <item>@string/wedding_category_label</item>
+    </string-array>
+
+    <string-array name="settings_category_values">
+        <item>@string/animal_category</item>
+        <item>@string/commercial_category</item>
+        <item>@string/family_category</item>
+        <item>@string/fashion_category</item>
+        <item>@string/film_category</item>
+        <item>@string/food_category</item>
+        <item>@string/landscape_category</item>
+        <item>@string/nature_category</item>
+        <item>@string/sport_category</item>
+        <item>@string/underwater_category</item>
+        <item>@string/wedding_category</item>
+    </string-array>
+
+</resources>

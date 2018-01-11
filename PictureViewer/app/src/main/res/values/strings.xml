@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Picture Viewer</string>
+    <string name="no_internet">No Internet Connected!</string>
+    <string name="settings">Settings</string>
+
+    <string name="category_label">Category</string>
+    <string name="category_key" translatable="false">category</string>
+
+    <string name="animal_category" translatable="false">Animals</string>
+    <string name="commercial_category" translatable="false">Commercial</string>
+    <string name="family_category" translatable="false">Family</string>
+    <string name="fashion_category" translatable="false">Fashion</string>
+    <string name="film_category" translatable="false">Film</string>
+    <string name="food_category" translatable="false">Food</string>
+    <string name="landscape_category" translatable="false">Landscapes</string>
+    <string name="nature_category" translatable="false">Nature</string>
+    <string name="sport_category" translatable="false">Sport</string>
+    <string name="underwater_category" translatable="false">Underwater</string>
+    <string name="wedding_category" translatable="false">Wedding</string>
+
+    <string name="commercial_category_label">Commercial</string>
+    <string name="animal_category_label">Animal</string>
+    <string name="family_category_label">Family</string>
+    <string name="fashion_category_label">Fashion</string>
+    <string name="film_category_label">Film</string>
+    <string name="food_category_label">Food</string>
+    <string name="landscape_category_label">Landscapes</string>
+    <string name="nature_category_label">Nature</string>
+    <string name="sport_category_label">Sport</string>
+    <string name="underwater_category_label">Underwater</string>
+    <string name="wedding_category_label">Wedding</string>
+</resources>
