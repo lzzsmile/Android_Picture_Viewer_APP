@@ -4,4 +4,4 @@
 
 * Enable automatic paging when user scroll down
 
-* Store the preference settings selected by user
+* Store the preference settings selected by user, and load photos accordingly
